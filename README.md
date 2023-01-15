@@ -1,7 +1,7 @@
 # Hi there, I'm Nicholas 👋
 
 - 👨🏻‍💻 I'm a technology enthusiast, passionate about programming and learning more about it. 
-- 🔭 Working as a Tech Support Analyst at Rappi.
+- 🔭 Working as a Tech Analyst at Rappi.
 - 🌱 Currently studying more about AWS and Airflow.
 - ⚡ I love to Read 📚 Play video games 🎮 and motor racing 🏎
 
